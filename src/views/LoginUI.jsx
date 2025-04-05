@@ -12,7 +12,7 @@ function LoginUI() {
       <AppBar sx={{ backgroundColor:'#393E46' }}  position="static">
         <Toolbar>
           <Link to={'/'}>
-          <CatchingPokemonIcon sx={{ color: "#00ADB5", fontSize: "30px" }} />
+          <CatchingPokemonIcon sx={{ color: "#EEEEEE", fontSize: "30px" }} />
           </Link>
           <Typography sx={{ ml: "10px", flexGrow: 1 }}>Kim Dokja</Typography>
           
